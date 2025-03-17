@@ -88,6 +88,7 @@
 <h3 align="center">🚀 Top Repositories & Projects 📂</h3>
 <p align="center">
   🚀 <b>LexiShift</b> → <a href="https://github.com/Sahnik0/Lexishift-LandingPage">GitHub Repo </a>  
-  🛠️ <b>|| Team-Up</b> → <a href="https://github.com/Sahnik0/Team-Up">GitHub Repo</a>  
-  🗨️ <b>|| Stud-Bud</b> → <a href="https://github.com/Sahnik0/StudBud">GitHub Repo</a>  
+   <b>|| 🛠️ Team-Up</b> → <a href="https://github.com/Sahnik0/Team-Up">GitHub Repo</a>  
+   <b>|| 🗨️ Stud-Bud</b> → <a href="https://github.com/Sahnik0/StudBud">GitHub Repo</a>
+   <b>|| 📎 Adivote</b> → <a href="https://github.com/Sahnik0/adiVote">GitHub Repo</a>
 </p>
