@@ -45,15 +45,15 @@
 
 const SAHNIK = {
   name        :  "Sahnik Biswas",
-  role        :  "Full Stack Developer 🚀",
+  role        :  "Full Stack Developer ",
   origin      :  "India 🇮🇳",
   currentQuest:  "Mastering Databases & System Design",
   contact     :  "tb123983@gmail.com",
-  superpower  :  "Turning coffee → code since forever ☕",
+  superpower  :  "Turning coffee → code since forever ",
   funFact     :  "I have great humor. No really. Ask my compiler.",
 
   askMeAbout  :  ["React", "Next.js", "Node.js", "APIs", "Life choices"],
-  currentlyOn :  "Full Stack grind 💻",
+  currentlyOn :  "Full Stack grind ",
 } as const;
 ```
 
