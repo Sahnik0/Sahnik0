@@ -2,13 +2,6 @@
 <!--                    SAHNIK BISWAS — README                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a0533,100:0D0D0D&height=220&section=header&text=SAHNIK%20BISWAS&fontSize=70&fontColor=c084fc&fontAlignY=45&desc=◈%20Full%20Stack%20Developer%20◈%20India&descSize=16&descAlignY=68&descColor=7c3aed&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ```
  ______     ______     __  __     __   __     __     __  __
@@ -18,7 +11,7 @@
   \/_____/   \/_/\/_/   \/_/\/_/   \/_/ \/_/   \/_/   \/_/\/_/
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=%5B+INITIALIZING+DEVELOPER+PROFILE...+%5D;%5B+STACK%3A+React+%7C+Next.js+%7C+Node.js+%7C+Flask+%5D;%5B+STATUS%3A+Currently+learning+Databases+%5D;%5B+VIBE%3A+Great+code+%2B+great+humor+%3D+me+%F0%9F%98%84+%5D;%5B+LOCATION%3A+India+%F0%9F%87%AE%F0%9F%87%B3+%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=2bcbfb&center=true&vCenter=true&width=650&lines=%5B+INITIALIZING+DEVELOPER+PROFILE...+%5D;%5B+STACK%3A+React+%7C+Next.js+%7C+Node.js+%7C+Flask+%5D;%5B+STATUS%3A+Currently+learning+Databases+%5D;%5B+VIBE%3A+Great+code+%2B+great+humor+%3D+me+%F0%9F%98%84+%5D;%5B+LOCATION%3A+India+%F0%9F%87%AE%F0%9F%87%B3+%5D)](https://git.io/typing-svg)
 
 </div>
 
